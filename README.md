@@ -1,6 +1,6 @@
 # Snowdrop OS - my homebrew operating system for PCs
 
-Snowdrop was written from scratch exclusively in assembly language. It features a graphical UI framework, development tools, games, and many others.
+Snowdrop was written from scratch exclusively in assembly language. It features a graphical and console applications, development tools, games, and many others.
 
 Visit the [project page](http://sebastianmihai.com/snowdrop/).
 
